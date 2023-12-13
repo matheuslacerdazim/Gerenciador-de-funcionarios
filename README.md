@@ -1,14 +1,12 @@
 # gerenciador-de-funcionarios
 
-Build Status
-
 Descrição do Projeto
 
 O Gerenciador de Funcionários é uma aplicação Java desenvolvida utilizando o Spring Boot, uma estrutura poderosa para construir aplicações Java baseadas em microsserviços. Este projeto oferece um sistema de gerenciamento de dados de funcionários, incluindo operações básicas de CRUD (Create, Read, Update, Delete). Além disso, o sistema consome a API dos Correios para completar automaticamente o endereço do usuário ao fornecer o CEP.
 
 Funcionalidades Principais:
 
-Cadastro de Funcionários: Adicione novos funcionários ao sistema, especificando detalhes como nome, cargo e outras informações pertinentes.
+Cadastro de Funcionários: Adicione novos funcionários ao sistema, especificando detalhes como nome, cpf e outras informações pertinentes.
 
 Atualização de Dados: Mantenha as informações dos funcionários atualizadas através da funcionalidade de atualização.
 
